@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+img {
+    width: 50%;
+}
+
+
+
+
+
+#tudo {
+
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#principal {
+    
+    background-color: white;
+    position: absolute;
+    width: 50%;
+    
+    display: inline-block;
+    top: 0px;
+    height: 500px;
+    
+}
+
+#login {
+    
+    
+    position: absolute;
+    display: block;
+    
+    min-height: 60%;
+    width: 60%;
+
+}
+
+h1 {
+    text-align: center;
+    color: #1E2128;
+    padding-bottom: 50px;
+    font-family: Monospace, serif;
+}
+
+#username, #senha {
+    margin-bottom: 10px;
+    width: 95%;
+    background-color: #EAF1F8;
+    border: none;
+    height: 30px;
+    padding-left: 5px;
+    border-radius: 7px;
+
+}
+
+#lembrar {
+    margin-top: 10px;
+}
+#esqueceu {
+    float: right;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+button {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    height: 35px;
+    background-color: #347deb;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+#sem-conta {
+    margin-top: 10px;
+}
+
+#logar-com {
+    padding-top: 10px;
+    text-align: center;
+    color: #347deb;
+}
+.imagem-logar-com {
+    width: 40px;
+    padding-top: 15px;
+    margin: 10px;
+}
